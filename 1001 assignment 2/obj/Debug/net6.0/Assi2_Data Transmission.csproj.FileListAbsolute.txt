@@ -1,0 +1,15 @@
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assi2_Data Transmission.csproj.AssemblyReference.cache
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assi2_Data Transmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assi2_Data Transmission.AssemblyInfoInputs.cache
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assi2_Data Transmission.AssemblyInfo.cs
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assi2_Data Transmission.csproj.CoreCompileInputs.cache
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\bin\Debug\net6.0\Assi2_Data Transmission.exe
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\bin\Debug\net6.0\Assi2_Data Transmission.deps.json
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\bin\Debug\net6.0\Assi2_Data Transmission.runtimeconfig.json
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\bin\Debug\net6.0\Assi2_Data Transmission.dll
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\bin\Debug\net6.0\ref\Assi2_Data Transmission.dll
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\bin\Debug\net6.0\Assi2_Data Transmission.pdb
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assi2_Data Transmission.dll
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\ref\Assi2_Data Transmission.dll
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assi2_Data Transmission.pdb
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assi2_Data Transmission.genruntimeconfig.cache

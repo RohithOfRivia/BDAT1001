@@ -1,0 +1,15 @@
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\bin\Debug\net6.0\Assignment_2_1001.exe
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\bin\Debug\net6.0\Assignment_2_1001.deps.json
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\bin\Debug\net6.0\Assignment_2_1001.runtimeconfig.json
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\bin\Debug\net6.0\Assignment_2_1001.dll
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\bin\Debug\net6.0\ref\Assignment_2_1001.dll
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\bin\Debug\net6.0\Assignment_2_1001.pdb
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assignment_2_1001.csproj.AssemblyReference.cache
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assignment_2_1001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assignment_2_1001.AssemblyInfoInputs.cache
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assignment_2_1001.AssemblyInfo.cs
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assignment_2_1001.csproj.CoreCompileInputs.cache
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assignment_2_1001.dll
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\ref\Assignment_2_1001.dll
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assignment_2_1001.pdb
+D:\Georgian\Sem 1\1001 Information Encoding Standards\Assignment 2\1001 assignment 2\obj\Debug\net6.0\Assignment_2_1001.genruntimeconfig.cache

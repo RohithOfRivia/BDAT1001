@@ -1,0 +1,15 @@
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.csproj.AssemblyReference.cache
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.AssemblyInfoInputs.cache
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.AssemblyInfo.cs
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.csproj.CoreCompileInputs.cache
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\bin\Debug\net6.0\Assignment 1.exe
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\bin\Debug\net6.0\Assignment 1.deps.json
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\bin\Debug\net6.0\Assignment 1.runtimeconfig.json
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\bin\Debug\net6.0\Assignment 1.dll
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\bin\Debug\net6.0\ref\Assignment 1.dll
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\bin\Debug\net6.0\Assignment 1.pdb
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.dll
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\obj\Debug\net6.0\ref\Assignment 1.dll
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.pdb
+D:\Georgian\Sem 1\1001 Information Encoding Standards\VS programs\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.genruntimeconfig.cache
